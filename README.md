@@ -3,7 +3,7 @@ LAB #5
 
 bastion_IP = 35.210.125.213
 
-someinternalhost_IP = 10.132.0.3
+someinternalhost_IP = 10.132.0.4
 
 Развернул две ВМ в GCP, одна из них с внешним IP.
 Сначала настроил подключение к внутренней ВМ через SSH Jump host.
