@@ -4,7 +4,7 @@ reshsv Infra repository
 LAB #6 Деплой тестового приложения
 Выполнено успешно.
 
-testapp_IP = 35.198.167.169
+testapp_IP = 35.195.40.74
 
 testapp_port = 9292
 
