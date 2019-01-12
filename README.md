@@ -1,4 +1,14 @@
 # reshsv_infra
+reshsv Infra repository
+
+LAB #6 Деплой тестового приложения
+Выполнено успешно.
+
+testapp_IP = 35.195.40.74
+
+testapp_port = 9292
+
+
 LAB #5
 
 bastion_IP = 35.210.125.213
