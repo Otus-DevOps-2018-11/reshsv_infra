@@ -1,0 +1,6 @@
+{
+    "project": "infra-123456",
+    "sourceimage": "ubuntu-1604-lts",
+    "machinetype": "f1-micro"
+}
+
