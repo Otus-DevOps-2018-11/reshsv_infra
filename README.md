@@ -1,5 +1,9 @@
 # reshsv_infra
 reshsv Infra repository
+LAB #12 ansible roles and environments
+Основные задания выполнены, дополнительные не выполнялись.
+
+
 LAB #11 Ansible
 
 Основные задания выполнены, дополнительные не выполнялись.
